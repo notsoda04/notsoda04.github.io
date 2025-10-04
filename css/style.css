@@ -1,0 +1,22 @@
+body {
+  font-family: Georgia, serif;
+  max-width: 700px;
+  margin: 2rem auto;
+  line-height: 1.6;
+  padding: 0 1rem;
+  background: #fafafa;
+  color: #333;
+}
+
+h1, h2 {
+  font-family: "Palatino Linotype", serif;
+}
+
+a {
+  color: darkblue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
